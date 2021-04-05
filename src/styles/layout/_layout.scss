@@ -1,0 +1,10 @@
+.app__portfolio {
+  width: 100vw;
+  display: grid;
+  grid-template-rows: 0.1fr 1fr 20px;
+}
+
+.container {
+  padding: 10px 10px;
+  color: get-color('tertiary');
+}
